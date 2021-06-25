@@ -9,4 +9,5 @@
 |__/  |__/ \_______/|__/|__/ \______/        \_____/\___/  \______/ |__/      |__/ \_______/|__/
 ```                                                                                                
 
-- 🔭 I’m currently working on creating great user experiences in FinTech 💻⚡
+- 🔭 I’m currently working on creating great user experiences in Fintech / Insurtech 💻⚡
+- 🌱 I’m currently learning Python and Flask 🐍
